@@ -4,7 +4,7 @@
 
 ### 1.1 Purpose of this document
 
-This document is one of the four output reports for Milestone 3 of the Iagon & Würth Catalyst Fund 13 project. It presents the user-experience design for the end-to-end ordering and 3D-printing user flows and the platform's operator/vendor interfaces. It addresses the Milestone 3 *UX Designs* output, which calls for wireframes or clickable prototypes validated through feedback, delivered as a UX report regardless of deployment status. Per Catalyst's clause, *where UI is already present, screenshots may be provided instead*.
+This document is one of the four output reports for Milestone 3 of the Iagon & Würth Catalyst Fund 13 project. It presents the user-experience design for the end-to-end ordering and 3D-printing user flows and the platform's operator/vendor interfaces. It addresses the Milestone 3 *UX Designs* output, which calls for wireframes or clickable prototypes validated through feedback, delivered as a UX report regardless of deployment status. Per Catalyst's clause, *where UI is already present, screenshots may be provided instead*. A recorded walkthrough of those interfaces accompanies the report and is linked in §7.
 
 ### 1.2 Scope boundaries
 
@@ -482,6 +482,20 @@ None commissioned. The Catalyst evidence clause lists third-party usability inpu
 ("*and optionally input from a third-party usability specialist*"). Given a closed-source
 pilot with a single enterprise partner and a fixed, known user population of operators and
 suppliers, review with that partner is the more informative signal, and is what §6.1 records.
+
+---
+
+## 7 Walkthrough video
+
+A recorded walkthrough accompanies this milestone. It is the counterpart to the screenshots
+in §3 and §4, which capture the same interfaces as stills.
+
+| | |
+|---|---|
+| **In this package** | [`05-demo-video.mp4`](05-demo-video.mp4) |
+| **On YouTube** | [Iagon & Würth Catalyst Project: Milestone 3 Demo Video](https://youtu.be/1m3CuBtidlY) |
+
+Both are the same recording.
 
 ---
 
