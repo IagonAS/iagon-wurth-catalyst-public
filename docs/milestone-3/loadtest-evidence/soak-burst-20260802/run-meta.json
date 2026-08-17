@@ -1,0 +1,10 @@
+{
+  "runId": "soak-burst-20260802",
+  "profile": "burst",
+  "ratePerHour": 38,
+  "durationMin": 240,
+  "startedAt": "2026-08-09T04:24:01.279Z",
+  "endedAt": "2026-08-09T08:24:01.792Z",
+  "ordersAttempted": 80,
+  "ordersSucceeded": 80
+}

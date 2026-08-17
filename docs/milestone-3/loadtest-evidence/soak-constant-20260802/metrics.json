@@ -1,0 +1,98 @@
+{
+  "runId": "soak-constant-20260802",
+  "window": {
+    "startedAt": "2026-08-03T04:42:13.470Z",
+    "endedAt": "2026-08-03T13:25:24.119Z"
+  },
+  "intake": {
+    "attempted": 304,
+    "succeeded": 304,
+    "errors": 0,
+    "httpLatencyMs": {
+      "count": 304,
+      "p50": 237,
+      "p95": 578,
+      "max": 1345
+    }
+  },
+  "stages": {
+    "intakeToUnlockMs": {
+      "count": 304,
+      "p50": 30004,
+      "p95": 30006,
+      "max": 30007
+    },
+    "unlockToIouSubmittedMs": {
+      "count": 268,
+      "p50": 209199,
+      "p95": 320164,
+      "max": 333143
+    },
+    "iouSubmittedToConfirmedMs": {
+      "count": 268,
+      "p50": 63827,
+      "p95": 170830,
+      "max": 240754
+    },
+    "iouConfirmedToSettleSubmittedMs": {
+      "count": 268,
+      "p50": 116067,
+      "p95": 303795,
+      "max": 466650
+    },
+    "settleSubmittedToConfirmedMs": {
+      "count": 268,
+      "p50": 63596,
+      "p95": 123995,
+      "max": 229115
+    },
+    "unlockToSettleConfirmedMs": {
+      "count": 268,
+      "p50": 428485,
+      "p95": 570941,
+      "max": 704200
+    },
+    "intakeToSettleConfirmedMs": {
+      "count": 268,
+      "p50": 458487,
+      "p95": 600943,
+      "max": 734202
+    }
+  },
+  "endToEndOrdersPerHour": 30.4,
+  "settledOrders": 268,
+  "totalTimelineOrders": 304,
+  "batchFill": {
+    "batches": 77,
+    "meanItemsPerBatch": 9.376623376623376,
+    "maxItemsPerBatch": 20,
+    "fillRatio": 0.4688311688311688
+  },
+  "logEvents": {
+    "resubmitted": 0,
+    "expired": 0,
+    "jobErrors": 0,
+    "batchFillDurationMs": {
+      "count": 0,
+      "p50": null,
+      "p95": null,
+      "max": null
+    },
+    "settlementFillDurationMs": {
+      "count": 0,
+      "p50": null,
+      "p95": null,
+      "max": null
+    },
+    "confirmationLatencyMs": {
+      "count": 0,
+      "p50": null,
+      "p95": null,
+      "max": null
+    }
+  },
+  "incidents": [
+    "2026-08-03T05:35:42.874Z: EXPIRED tracked transactions increased: 0 → 2",
+    "2026-08-09T04:24:14.399Z: EXPIRED tracked transactions increased: 0 → 5"
+  ]
+}

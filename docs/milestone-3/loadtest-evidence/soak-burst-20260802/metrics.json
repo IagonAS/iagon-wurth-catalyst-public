@@ -1,0 +1,99 @@
+{
+  "runId": "soak-burst-20260802",
+  "window": {
+    "startedAt": "2026-08-09T04:24:01.279Z",
+    "endedAt": "2026-08-09T08:24:01.792Z"
+  },
+  "intake": {
+    "attempted": 80,
+    "succeeded": 80,
+    "errors": 0,
+    "httpLatencyMs": {
+      "count": 80,
+      "p50": 208,
+      "p95": 247,
+      "max": 657
+    }
+  },
+  "stages": {
+    "intakeToUnlockMs": {
+      "count": 80,
+      "p50": 30002,
+      "p95": 30004,
+      "max": 30005
+    },
+    "unlockToIouSubmittedMs": {
+      "count": 77,
+      "p50": 31338,
+      "p95": 323788,
+      "max": 325285
+    },
+    "iouSubmittedToConfirmedMs": {
+      "count": 77,
+      "p50": 69344,
+      "p95": 110836,
+      "max": 110836
+    },
+    "iouConfirmedToSettleSubmittedMs": {
+      "count": 76,
+      "p50": 245315,
+      "p95": 467294,
+      "max": 556158
+    },
+    "settleSubmittedToConfirmedMs": {
+      "count": 76,
+      "p50": 44814,
+      "p95": 111236,
+      "max": 134035
+    },
+    "unlockToSettleConfirmedMs": {
+      "count": 76,
+      "p50": 468666,
+      "p95": 850275,
+      "max": 945357
+    },
+    "intakeToSettleConfirmedMs": {
+      "count": 76,
+      "p50": 498670,
+      "p95": 880278,
+      "max": 975361
+    }
+  },
+  "endToEndOrdersPerHour": 20.6,
+  "settledOrders": 76,
+  "totalTimelineOrders": 80,
+  "batchFill": {
+    "batches": 15,
+    "meanItemsPerBatch": 13.2,
+    "maxItemsPerBatch": 20,
+    "fillRatio": 0.6599999999999999
+  },
+  "logEvents": {
+    "resubmitted": 0,
+    "expired": 0,
+    "jobErrors": 0,
+    "batchFillDurationMs": {
+      "count": 0,
+      "p50": null,
+      "p95": null,
+      "max": null
+    },
+    "settlementFillDurationMs": {
+      "count": 0,
+      "p50": null,
+      "p95": null,
+      "max": null
+    },
+    "confirmationLatencyMs": {
+      "count": 0,
+      "p50": null,
+      "p95": null,
+      "max": null
+    }
+  },
+  "incidents": [
+    "2026-08-09T04:24:31.933Z: EXPIRED tracked transactions increased: 0 → 5",
+    "2026-08-09T06:26:44.464Z: No settlement confirmed for 20+ min while 8 orders await settlement",
+    "2026-08-09T06:27:46.190Z: No settlement confirmed for 20+ min while 8 orders await settlement"
+  ]
+}

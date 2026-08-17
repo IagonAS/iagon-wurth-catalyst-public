@@ -1,0 +1,12 @@
+{
+  "runId": "soak-constant-20260802",
+  "profile": "constant",
+  "ratePerHour": 38,
+  "durationMin": 470,
+  "startedAt": "2026-08-03T04:42:13.470Z",
+  "endedAt": "2026-08-03T13:25:24.119Z",
+  "ordersAttempted": 304,
+  "ordersSucceeded": 304,
+  "resumedAt": "2026-08-03T05:35:23.455Z",
+  "note": "Generator stopped 04:53-05:35 UTC and resumed with --start-seq; the resume overwrote startedAt with the resume point, so startedAt was restored to the first order of the run. resumedAt records the second window start. Order counts cover both windows."
+}
