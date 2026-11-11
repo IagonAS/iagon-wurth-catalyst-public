@@ -1,0 +1,2 @@
+tx_hash,block,time_utc,vendor,vendor_address,iou_burned_tusd,tusd_paid,treasury_before_tusd,treasury_after_tusd,tx_fee_tada,redeemers,script_mem_units,script_cpu_steps,scripts_valid,explorer
+530a8b602da76e4ee8a3f9c25eac868ee54bf6666497f5ed346adfba2e41db46,5377784,2026-11-05 20:44:58,Iagon Alpha Vendor,addr_test1vz7fxzjdmdxzqk9j9ve3srjg4rtrq665gqp7w2tfuksq74sys474t,15.000000,15.000000,1000000.000000,999985.000000,0.280605,mint+spend,344106,126578981,yes,https://preprod.cexplorer.io/tx/530a8b602da76e4ee8a3f9c25eac868ee54bf6666497f5ed346adfba2e41db46

@@ -1,0 +1,170 @@
+[
+ {
+  "id": 1,
+  "uuid": "e713a63b-a361-4b6a-a1ab-ab34f366fd22",
+  "displayName": "Test Supply Vendor ABC",
+  "publicKeyHash": "fff269825cd0464c6d657e72c45348f031321a216397e9f2fc1b1ab4",
+  "customVendorIdentifier": "141",
+  "createdAt": "2026-10-23T14:46:05.731Z"
+ },
+ {
+  "id": 2,
+  "uuid": "7640c2fc-3a17-482f-a90e-f3c7ecaf3013",
+  "displayName": "Test Supply Vendor AC",
+  "publicKeyHash": "0cd09c1536d165f57058b18294fc4c8d0872592bdf6919f02d70fc8c",
+  "customVendorIdentifier": "142",
+  "createdAt": "2026-10-23T17:03:38.419Z"
+ },
+ {
+  "id": 3,
+  "uuid": "a103f701-9b50-4ba2-9dd4-a71eb1b31176",
+  "displayName": "Iagon Alpha Vendor",
+  "publicKeyHash": "bc930a4ddb4c2058b22b33180e48a8d6306b544003e72969e5a00f56",
+  "customVendorIdentifier": "IAGON-E2E-1",
+  "createdAt": "2026-10-25T18:19:26.616Z"
+ },
+ {
+  "id": 4,
+  "uuid": "99dcf3f8-dae7-461a-a943-8acced9c77ba",
+  "displayName": "Iagon Beta Vendor",
+  "publicKeyHash": "c35e93294fc2b4143a4f08ceb34f0458cd258a2ea71e4227ebb894bd",
+  "customVendorIdentifier": "IAGON-E2E-2",
+  "createdAt": "2026-10-25T18:28:34.875Z"
+ },
+ {
+  "id": 5,
+  "uuid": "f359e54e-d3a1-4aa8-942f-167990d03d08",
+  "displayName": "Iagon Gamma Vendor",
+  "publicKeyHash": "22e4a98f5272717c40e933f15d5b98f62dd4e7d1de0b70e2951549cb",
+  "customVendorIdentifier": "IAGON-E2E-3",
+  "createdAt": "2026-10-25T18:30:52.940Z"
+ },
+ {
+  "id": 6,
+  "uuid": "7c0be73f-c428-47a9-8e64-70900da3a02e",
+  "displayName": "Vendor Supplier",
+  "publicKeyHash": "2110c271fc2c8b12ed49e782dde842abbfb7e9f07d2b81d1603f2770",
+  "customVendorIdentifier": "1211",
+  "createdAt": "2026-10-26T06:09:26.294Z"
+ },
+ {
+  "id": 7,
+  "uuid": "2b868d55-c4de-4582-976c-102155bb969e",
+  "displayName": "Orsy test vendor",
+  "publicKeyHash": "8fd4abcdc1b13dec9c04dfe75b18cc904fa04f88fabc0dc679ada26b",
+  "customVendorIdentifier": "IAGON-E2E-4",
+  "createdAt": "2026-10-26T06:42:19.857Z"
+ },
+ {
+  "id": 8,
+  "uuid": "9d7b9541-0664-40f4-9f6c-2d80f8c07b25",
+  "displayName": "ORSY Milwaukee vendor",
+  "publicKeyHash": "ed668d0c6eeefd887fa66b9394a80dd6e2f1cd3473a114e7350c75a5",
+  "customVendorIdentifier": "IAGON-E2E-5",
+  "createdAt": "2026-10-29T06:17:34.759Z"
+ },
+ {
+  "id": 9,
+  "uuid": "c625a3eb-30d7-494e-bf33-bdb6df342026",
+  "displayName": "ORSY Metabo vendor",
+  "publicKeyHash": "a4cee0ea83b80da99b395ee5df94ace40182649e8f043be289cb91b6",
+  "customVendorIdentifier": "IAGON-E2E-6",
+  "createdAt": "2026-10-29T08:30:50.604Z"
+ },
+ {
+  "id": 42,
+  "uuid": "44188c5a-1859-4fb7-a0e5-d1a5f9b36dee",
+  "displayName": "Iagon Delta Vendor",
+  "publicKeyHash": "c4a32372825b5f0fd8de366675bc1e48ee7537e7f5b37b7b83a9f30c",
+  "customVendorIdentifier": "IAGON-DEMO-1",
+  "createdAt": "2026-11-01T22:18:32.075Z"
+ },
+ {
+  "id": 43,
+  "uuid": "b64daa68-e193-48bc-97db-714f3ba847af",
+  "displayName": "Iagon Echo Vendor",
+  "publicKeyHash": "3761335fa5ab1874afeade5ab1a30c7e464a1c39a0920db74e771b86",
+  "customVendorIdentifier": "IAGON-DEMO-2",
+  "createdAt": "2026-11-01T22:51:17.209Z"
+ },
+ {
+  "id": 44,
+  "uuid": "36c86d43-1d50-4e08-9344-4ebd583a728a",
+  "displayName": "Iagon Foxtrot Vendor",
+  "publicKeyHash": "c910cb8c37e818ffb71bf57ab8290d968d75770184cc1c005c521acd",
+  "customVendorIdentifier": "IAGON-DEMO-3",
+  "createdAt": "2026-11-02T14:50:53.502Z"
+ },
+ {
+  "id": 45,
+  "uuid": "f9a17e5e-29ff-4d0f-8dde-ca1ce32edcaf",
+  "displayName": "Northbridge Clips",
+  "publicKeyHash": "a0fbd254e5d4daf89a6ea405bab0cf9d031008678ad59dd323868806",
+  "customVendorIdentifier": "NBC-100",
+  "createdAt": "2026-11-02T17:06:37.396Z"
+ },
+ {
+  "id": 46,
+  "uuid": "ec19c020-1774-4f17-b58a-76dc0bbec866",
+  "displayName": "ORSY Jig vendor",
+  "publicKeyHash": "38f3280f25cfb98ab122f8477bf33e2f667afd859639adf696de7a22",
+  "customVendorIdentifier": "NBC-101",
+  "createdAt": "2026-11-02T17:41:03.470Z"
+ },
+ {
+  "id": 47,
+  "uuid": "5e355821-f553-4c49-9bd4-4220047d495c",
+  "displayName": "Kestrel Fixtures",
+  "publicKeyHash": "563450a8cbf9df2ca6c82a96bd1641af6125dbbc3b691d16be146382",
+  "customVendorIdentifier": "NBC-102",
+  "createdAt": "2026-11-02T18:30:35.931Z"
+ },
+ {
+  "id": 48,
+  "uuid": "cfeb7257-63c6-419b-b282-7ec9058001f5",
+  "displayName": "Test Plug Supplier",
+  "publicKeyHash": "a3020ded270c399acf0aeb3dc300d86e7dbafd031453867109c0ad8e",
+  "customVendorIdentifier": "1302",
+  "createdAt": "2026-11-02T18:53:13.784Z"
+ },
+ {
+  "id": 49,
+  "uuid": "6137a4ce-eea0-493b-bc73-0993ce643cb1",
+  "displayName": "ORSY Hose Hook vendor",
+  "publicKeyHash": "d50395597ce7cb93038ed51068086e6959c15437d09e202244ab06a8",
+  "customVendorIdentifier": "1303",
+  "createdAt": "2026-11-02T19:14:05.606Z"
+ },
+ {
+  "id": 50,
+  "uuid": "ed99d48e-954a-4473-914c-44537feba696",
+  "displayName": "Lakeshore Auto Trim",
+  "publicKeyHash": "277192354bce0e47441e98d45eff42c1138bd0dddbe97641614a0637",
+  "customVendorIdentifier": "1304",
+  "createdAt": "2026-11-02T19:22:18.710Z"
+ },
+ {
+  "id": 51,
+  "uuid": "6c6dae89-2228-4c63-a80c-32bc5e7d28ca",
+  "displayName": "Alder Print Parts",
+  "publicKeyHash": "adde219c64ce82825e556764fabcb016626775859f63492c93e76f5c",
+  "customVendorIdentifier": "1305",
+  "createdAt": "2026-11-02T19:28:50.049Z"
+ },
+ {
+  "id": 52,
+  "uuid": "20aac5f8-9c3b-4760-86ca-b63a8cb9d37a",
+  "displayName": "Wurth ca",
+  "publicKeyHash": "a064ce9c5e1e2333fd92298a0ce5d5dc6897d6e993461549bd66fc55",
+  "customVendorIdentifier": "-",
+  "createdAt": "2026-11-03T08:25:08.457Z"
+ },
+ {
+  "id": 53,
+  "uuid": "511ef6e9-84cd-4d5e-97e2-78e7a1e7b5da",
+  "displayName": "Iagon Golf Vendor",
+  "publicKeyHash": "78d4aa9445302ac1eb2f0cfe4a3ed047ad63d924b209053251c32583",
+  "customVendorIdentifier": "IAGON-DEMO-4",
+  "createdAt": "2026-11-03T14:40:05.584Z"
+ }
+]
